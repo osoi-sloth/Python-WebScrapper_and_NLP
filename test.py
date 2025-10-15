@@ -1,0 +1,1 @@
+print("dhala ra bada pelo")
